@@ -1,3 +1,5 @@
 I am a PhD student at [Stevens Institute of Technology](http://www.stevens.edu), working in the [Robust Field Autonomy Laboratory](http://personal.stevens.edu/~benglot/) with [Prof. Brendan Englot](https://web.stevens.edu/facultyprofile/?id=2043). My research focuses on probabilistic models for safe decision making and learning for robotic systems. I completed my undergraduate studies at the [University of Maryland](https://umd.edu), where I earned bachelors degrees in [Physics](https://umdphysics.umd.edu) and [Aerospace Engineering](https://aero.umd.edu).   
 
-[Publications](/publications.md)
+Here is a list of my [publications](/publications.md)
+
+Here is my [CV](/2018-martin-cv.pdf)
