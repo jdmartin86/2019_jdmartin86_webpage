@@ -1,5 +1,6 @@
 # Publications
 
+## Conference Publications
 * [Sparse Gaussian Process Temporal Difference Learning for Marine Robot Navigation](http://proceedings.mlr.press/v87/martin18a/martin18a.pdf)
 John Martin, Jinkun Wang, Brendan Englot
 Conference on Robot Learning (2018)
@@ -8,3 +9,10 @@ Conference on Robot Learning (2018)
 John Martin, Brendan Englot
 Conference on Robot Learning (2017)
 
+## Posters
+* [Distributed Gaussian Process Regression for Efficient Robot Learning]()
+John Martin, Brendan Englot
+
+* [Distributed Gaussian Process Temporal Differences for Actor-critic Learning](publications/posters/2018-martin_xing_florescu_englot-nyas_mls_poster.pdf)
+John Martin, Zheng Xing, Zhiyuan Yao, Ionut Florescu, Brendan Englot
+New York Academy of Sciences Machine Learning Symposium
