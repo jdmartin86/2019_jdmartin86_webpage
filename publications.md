@@ -10,9 +10,6 @@ John Martin, Brendan Englot
 Conference on Robot Learning (2017)
 
 ## Posters
-* [Distributed Gaussian Process Regression for Efficient Robot Learning]()
-John Martin, Brendan Englot
-
-* [Distributed Gaussian Process Temporal Differences for Actor-critic Learning](publications/posters/2018-martin_xing_florescu_englot-nyas_mls_poster.pdf)
+* [Distributed Gaussian Process Temporal Differences for Actor-critic Learning](publications/poster/2018-martin_xing_florescu_englot-nyas_mls_poster.pdf)
 John Martin, Zheng Xing, Zhiyuan Yao, Ionut Florescu, Brendan Englot
-New York Academy of Sciences Machine Learning Symposium
+[New York Academy of Sciences Machine Learning Symposium](https://www.nyas.org/events/2018/12th-annual-machine-learning-symposium/?tab=description) (2018)
