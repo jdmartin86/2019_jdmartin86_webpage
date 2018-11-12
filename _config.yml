@@ -1,4 +1,18 @@
 #theme: jekyll-theme-minimal
 remote_theme:jwillmer/jekyllDecent
-title: [John Martin]
-description: [PhD Canidate]
+#title: [John Martin]
+#description: [PhD Canidate]
+
+title:         John Martin      #Page/post title
+author:        jwillmer     #Page/post author
+cover:         /image.jpg   #Optional: Posibillity to change cover on a post/page
+redirect_from: /foo         #Optional: Redirect url
+visible:       false        #Optional: Hide page from listing in the menu.
+weight:        5            #Optional: Influence sorting of pages in the menu
+menutitle:     Offline      #Optional: Use a secondary name in the menu/post list
+tags:          hallo welt   #Optional: Will be displayed as tags and as keywords in posts
+keywords:      hallo welt   #Optional: Will add keywords to a page
+language:      en           #Optional: Will set a specific language of the page
+comments:      false        #Optional: Will enable/disable comments in your post 
+math:          true        #Optional: Will enable math formulas
+citation:      [..]         #Optional: Additional meta tags for scholar articles
