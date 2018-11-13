@@ -5,18 +5,18 @@ I am a PhD student at [Stevens Institute of Technology](http://www.stevens.edu),
 I'm broadly interested in how autonomous agents should make decisions in complex and unknown environments. Most of my work has focused on including better probabilistic models and optimizatoin schemes into the Reinforcement Learning paradigm. Lately, I've been obsessed with optimal transport theory and how it can be applied for risk-aware RL and improved robot perception.
 
 # Publications & Posters
-* Sparse Gaussian Process Temporal Difference Learning for Marine Robot Navigation
-**John Martin**, Jinkun Wang, Brendan Englot
+* Sparse Gaussian Process Temporal Difference Learning for Marine Robot Navigation,
+**John Martin**, Jinkun Wang, Brendan Englot,
 *Conference on Robot Learning* (2018) [[pdf]](http://proceedings.mlr.press/v87/martin18a/martin18a.pdf)
 
-* [Extending Model-based Policy Gradients for Robots in Heteroscedastic Environments]
-**John Martin**, Brendan Englot
+* Extending Model-based Policy Gradients for Robots in Heteroscedastic Environments,
+**John Martin**, Brendan Englot,
 *Conference on Robot Learning* (2017) [[pdf]](http://proceedings.mlr.press/v78/martin17a/martin17a.pdf)
 
-* Distributed Gaussian Process Temporal Differences for Actor-critic Learning
-**John Martin**, Zheng Xing, Zhiyuan Yao, Ionut Florescu, Brendan Englot
+* Distributed Gaussian Process Temporal Differences for Actor-critic Learning,
+**John Martin**, Zheng Xing, Zhiyuan Yao, Ionut Florescu, Brendan Englot,
 [*New York Academy of Sciences Machine Learning Symposium*](https://www.nyas.org/events/2018/12th-annual-machine-learning-symposium/?tab=description) (2018) [[poster]](/publications/poster/2018-martin_xing_florescu_englot-nyas_mls_poster.pdf)
 
-* Predicting Ocean Currents for Robot Navigation
-**John Martin**, Tixiao Shan, Brendan Englot
+* Predicting Ocean Currents for Robot Navigation,
+**John Martin**, Tixiao Shan, Brendan Englot,
 *Stevens Graduate Research Conference* (2017) [[poster]](/publications/poster/2017-martin_shan_englot-predicting_ocean_currents_for_robot_navigation.pdf)
