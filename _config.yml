@@ -9,7 +9,6 @@
 title: John Martin
 email: jmarti3 (at) stevens.edu
 description: Machine Learning, Robotics, Alpine Climbing
-PhD Student @ Stevens Institute of Technology
 baseurl: / # the subpath of your site, e.g. /blog
 url: http://jdmartin86.github.io # the base hostname & protocol for your site
 twitter_username: jdmartin86
@@ -20,4 +19,3 @@ theme-dark: false #Set to true to change to dark website theme
 plugins: [jekyll-paginate, kramdown]
 # Build settings
 markdown: kramdown
-highlighter: rouge
