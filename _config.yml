@@ -16,6 +16,6 @@ github_username:  jdmartin86
 paginate: 5
 theme-dark: false #Set to true to change to dark website theme
 
-plugins: [jekyll-paginate, kramdown]
+plugins: [jekyll-paginate, kramdown, jekyll-seo-tag]
 # Build settings
 markdown: kramdown
