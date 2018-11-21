@@ -5,6 +5,12 @@ I am a PhD student at [Stevens Institute of Technology](http://www.stevens.edu),
 I'm interested in how autonomous agents should make decisions in complex and unknown environments. Most of my work has focused on including better probabilistic models and optimizatoin schemes into the Reinforcement Learning paradigm. Lately, I've been obsessed with optimal transport theory and how it can be applied for risk-aware RL and improved robot perception.
 
 # Publications & Posters
+
+* Recursive Sparse Pseudo-input Gaussian Process SARSA,
+**John Martin**, Brendan Englot,
+*ArXiv* (2018)
+[[pdf]](https://arxiv.org/abs/1811.07201)
+
 * Sparse Gaussian Process Temporal Difference Learning for Marine Robot Navigation,
 **John Martin**, Jinkun Wang, Brendan Englot,
 *Conference on Robot Learning* (2018) [[pdf](http://proceedings.mlr.press/v87/martin18a/martin18a.pdf)]
