@@ -2,7 +2,7 @@
 I am a PhD student at [Stevens Institute of Technology](http://www.stevens.edu), working in the [Robust Field Autonomy Laboratory](http://personal.stevens.edu/~benglot/) with [Prof. Brendan Englot](https://web.stevens.edu/facultyprofile/?id=2043). My research focuses on improving robot decision making with new optimization methods. I completed my undergraduate studies at the [University of Maryland](https://umd.edu), earning two bachelors degrees: in [Physics](https://umdphysics.umd.edu) and [Aerospace Engineering](https://aero.umd.edu). For more details on my professional experience, see my [CV](/2018-martin-cv.pdf).
 
 # Research Interests
-I'm interested in how autonomous agents should make decisions in complex and unknown environments. Most of my work has focused on including better probabilistic models and optimizatoin schemes into the Reinforcement Learning paradigm. Lately, I've been obsessed with optimal transport theory and how it can be applied for risk-aware RL and improved robot perception.
+I'm interested in how autonomous agents should make decisions in complex and unknown environments. Most of my work has focused on including better probabilistic models and optimization schemes into the Reinforcement Learning paradigm. Lately, I've been obsessed with optimal transport theory and how it can be applied for risk-aware RL and improved robot perception.
 
 # Publications & Posters
 
