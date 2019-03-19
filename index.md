@@ -4,6 +4,10 @@ I am a PhD student at [Stevens Institute of Technology](http://www.stevens.edu),
 # Research Interests
 I'm interested in how autonomous agents should make decisions in complex and unknown environments. Most of my work has focused on including better probabilistic models and optimization schemes into the Reinforcement Learning paradigm. Lately, I've been obsessed with optimal transport theory and how it can be applied for risk-aware RL and improved robot perception.
 
+# News
+
+**March 14, 2019:** I'm excited to announce that I will be working at [Google Brain](https://ai.google/research/teams/brain) in Montreal, Canada, as an intern with Marc G. Bellemare's group. There I will study methods for continual reinforcement learning in deep neural networks, focusing on settings with non-stationary data and applications to robotics. 
+
 # Publications & Posters
 
 * Recursive Sparse Pseudo-input Gaussian Process SARSA,  
