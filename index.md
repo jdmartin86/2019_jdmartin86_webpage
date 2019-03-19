@@ -6,7 +6,7 @@ I'm interested in how autonomous agents should make decisions in complex and unk
 
 # News
 
-**March 14, 2019:** I'm excited to announce that I will be working at [Google Brain](https://ai.google/research/teams/brain) in Montréal, Canada, as a research intern with Marc G. Bellemare's group. There I will study methods for continual reinforcement learning in deep neural networks, focusing on settings with non-stationary data and applications to robotics. 
+* **March 14, 2019:** I'm excited to announce that I will be working at [Google Brain](https://ai.google/research/teams/brain) in Montréal, Canada, as a research intern with Marc G. Bellemare's group. There I will study methods for continual reinforcement learning in deep neural networks, focusing on settings with non-stationary data and applications to robotics. 
 
 # Publications & Posters
 
