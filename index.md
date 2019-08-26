@@ -8,6 +8,8 @@ I believe the Reinforcement Learning paradigm provides a good framework from whi
 
 # News
 
+* **August 30, 2019:** I'm giving a talk at [Google Robotics](https://ai.google/research/teams/brain/robotics/) in New York City on exploiting transition invariance for efficient Reinforcement Learning in multi-stage tasks.
+
 * **March 14, 2019:** I'm excited to announce that I will be working at [Google Brain](https://ai.google/research/teams/brain) in Montréal, Canada, as a research intern with Marc G. Bellemare's group. There I will study methods for continual reinforcement learning in deep neural networks, focusing on settings with non-stationary data. 
 
 # Publications & Posters
