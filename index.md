@@ -8,6 +8,8 @@ I believe the Reinforcement Learning paradigm provides a good framework from whi
 
 # News
 
+* **October 7, 2019:** Two of my projects will appear as NeurIPS workshop papers this year. At the [Saftey and Robust Decison Making Workshop](https://sites.google.com/view/neurips19-safe-robust-workshop#h.p_iF36C6BL_elR), Stochastically Dominant Distributional Reinforcement Learning, **John D. Martin**,  Michal Lyskawinski, Xiaohu Li, Brendan Englot. At the [Biological adn Artifical RL Workshop](https://sites.google.com/view/biologicalandartificialrl), Memento: Learning through Forgetting, William Fedus, Dibya Gosh, **John D. Martin**, Marc G. Bellemare, Hugo Larochelle, Yoshua Bengio
+
 * **August 30, 2019:** I'm giving a talk at [Google Robotics](https://ai.google/research/teams/brain/robotics/) in New York City on exploiting transition invariance for efficient Reinforcement Learning in multi-stage tasks.
 
 * **March 14, 2019:** I'm excited to announce that I will be working at [Google Brain](https://ai.google/research/teams/brain) in Montréal, Canada, as a research intern with Marc G. Bellemare's group. There I will study methods for continual reinforcement learning in deep neural networks, focusing on settings with non-stationary data. 
