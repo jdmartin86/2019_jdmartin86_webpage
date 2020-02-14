@@ -24,10 +24,6 @@ I believe the Reinforcement Learning paradigm provides a good framework from whi
 **John D. Martin**,  Michal Lyskawinski, Xiaohu Li, Brendan Englot,  
 *ArXiv* (2019)[[pdf]](https://arxiv.org/abs/1905.07318)
 
-#* Recursive Sparse Pseudo-input Gaussian Process SARSA,  
-#**John D. Martin**, Brendan Englot,  
-#*ArXiv* (2018)[[pdf]](https://arxiv.org/abs/1811.07201)
-
 * Sparse Gaussian Process Temporal Difference Learning for Marine Robot Navigation,  
 **John D. Martin**, Jinkun Wang, Brendan Englot,  
 *Conference on Robot Learning* (2018) [[pdf](http://proceedings.mlr.press/v87/martin18a/martin18a.pdf)]
